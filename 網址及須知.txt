@@ -1,0 +1,7 @@
+版本:Unity 5.6.6f2 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b5ca800d7f10a201fe8c857?fbclid=IwAR2U_9fRGvrBrj5CrCoTHDGEnCWQiTrVsbvfe_mNGFsWqfFnCZQTVWGf-AQ
+
+官方Github網址__https://github.com/hiroakioishi/UnityImageEffects
+
+本人Github網址__https://github.com/z1125411235/UWA_Unity-ImageEffects.git
